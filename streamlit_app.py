@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
        "texts": ["짜장면은 중국집의 메뉴이다."],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/783/78316_1_a.jpg?f=webp&q=80"],
        "videos": ["https://www.youtube.com/shorts/vbTUxkwHNz0"]
      },
 
