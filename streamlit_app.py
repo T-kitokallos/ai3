@@ -75,6 +75,18 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "videos": ["https://www.youtube.com/shorts/vbTUxkwHNz0"]
      },
 
+     labels[1]: {
+       "texts": ["짬뽕은 중국집의 메뉴이다."],
+       "images": ["https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/783/78316_1_a.jpg?f=webp&q=80"],
+       "videos": ["https://www.youtube.com/shorts/vbTUxkwHNz0"]
+     },
+
+     labels[2]: {
+       "texts": ["탕수육은 중국집의 메뉴이다."],
+       "images": ["https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/783/78316_1_a.jpg?f=webp&q=80"],
+       "videos": ["https://www.youtube.com/shorts/vbTUxkwHNz0"]
+     },
+
 }
 # ======================
 # 유틸
