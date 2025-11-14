@@ -77,14 +77,14 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[1]: {
        "texts": ["짬뽕은 중국집의 메뉴이다."],
-       "images": ["https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/783/78316_1_a.jpg?f=webp&q=80"],
-       "videos": ["https://www.youtube.com/shorts/vbTUxkwHNz0"]
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Z8oJ5kE1wHcz_H82DJmmZkdt3q-ZV6VZkw&s"],
+       "videos": ["https://www.youtube.com/watch?v=FbdC6KmYgis"]
      },
 
      labels[2]: {
        "texts": ["탕수육은 중국집의 메뉴이다."],
-       "images": ["https://image.thebanchan.co.kr/dwmall/static_root/model_img/main/783/78316_1_a.jpg?f=webp&q=80"],
-       "videos": ["https://www.youtube.com/shorts/vbTUxkwHNz0"]
+       "images": ["https://mblogthumb-phinf.pstatic.net/MjAyMTAyMTJfMTE1/MDAxNjEzMTMxNjg5Nzky.QfsDVNvBTr67340jJ-DQdNxPByX6CqUq8rWy4Te4bmEg.4TJeK3uT4ZM6fXKyRCQprcgZEgR5s06SJvV_yCjdfAcg.JPEG.eosllover/SE-4479e5d0-e873-4275-9d9f-5630144b2477.jpg?type=w800"],
+       "videos": ["https://www.youtube.com/watch?v=nCzUhrYE4vI"]
      },
 
 }
